@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DaggerExample</string>
+    <string name="info">This is an example using Dagger for Dependency Injection. The TimeService is injected into MainActivity.</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_now">Time now:</string>
+    <string name="time_tomorrow">This time tomorrow:</string>
+    <string name="refresh_time">Refresh Time</string>
+    <string name="go_to_next_activity">Go to next Activity</string>
+    <string name="title_activity_multiple_dependency">MultipleDependencyActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="go_back">Go Back</string>
+    <string name="new_string">Generate New String</string>
+
+</resources>
